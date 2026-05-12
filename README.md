@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lilia
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960F7&center=true&vMultiline=true&width=600&lines=Backend+%26+Integration+Engineer;Java+%7C+Quarkus+%7C+Microservices;Cloud+%7C+Kubernetes+%7C+DevOps+Enthusiast;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960F7&center=true&vCenter=true&width=600&lines=Backend+%26+Integration+Engineer;Java+%7C+Quarkus+%7C+Microservices;Cloud+%7C+Kubernetes+%7C+DevOps+Enthusiast;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,8 +22,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiliaLyubenova&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliaLyubenova&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiliaLyubenova&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiliaLyubenova&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
@@ -70,16 +70,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilia-lyubenova/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiliaLyubenova)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LiliaLyubenova&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
