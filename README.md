@@ -33,19 +33,6 @@
 
 ---
 
-## ⏱️ Coding Activity (Wakapi)
-
-<div align="center">
-  <img src="https://wakapi-server-prd-iac-integration-prd.apps.ocpbm.a1.bg/api/badge/LiliaLyubenova/interval:all_time?label=Total%20Coding%20Time&style=for-the-badge&color=blueviolet" alt="Total Coding Time" />
-  <img src="https://wakapi-server-prd-iac-integration-prd.apps.ocpbm.a1.bg/api/badge/LiliaLyubenova/interval:7_days?label=This%20Week&style=for-the-badge&color=A960F7" alt="This Week" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LiliaLyubenova&api_domain=wakapi-server-prd-iac-integration-prd.apps.ocpbm.a1.bg&base_url=https://wakapi-server-prd-iac-integration-prd.apps.ocpbm.a1.bg/api&theme=radical&hide_border=true&layout=compact" alt="Wakapi Stats" />
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### ☕ Backend & Frameworks
