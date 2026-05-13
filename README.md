@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lilia
+# Hi there 👋 I'm Lilly👩‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960F7&center=true&vCenter=true&width=600&lines=Backend+%26+Integration+Engineer;Java+%7C+Quarkus+%7C+Microservices;Cloud+%7C+Kubernetes+%7C+DevOps+Enthusiast;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
@@ -21,14 +21,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiliaLyubenova&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiliaLyubenova&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiliaLyubenova&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiliaLyubenova&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiliaLyubenova&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=LiliaLyubenova&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
